@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkmoon-6524&label=Profile%20views&color=0e75b6&style=flat" alt="darkmoon-6524" /> </p>
 
-- 💬 Ask me about **Web Development, c, c++**
+- 💬 Ask me about **Backend, Finance**
 
 - 📫 How to reach me **gunnishmehta2003@gmail.com**
 
