@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Nodejs, Websockets, React hooks**
 
-- 📫 How to reach me **gunnishmehta2003@gmail.com**
+- 📫 How to reach me **work.gunnishmehta@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11ncnqBlPw3OvyLOSK5NLmd0D-GiTdmKV/view?usp=sharing)
 
